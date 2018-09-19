@@ -1,12 +1,14 @@
-This is a repo which contains different Prject Euler probelms. 
+This repository contains different Prject Euler probelms. 
 All the probelms has been solved utilizing Java. 
 
 
 All the problem are from Project Euler (https://projecteuler.net).
 
+<b>
 Probelm 1
 
 Multiples of 3 and 5 
+<b>
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9.
 The sum of these multiples is 23. Find the sum of a the multiples of 3 or 5 below 1000.
