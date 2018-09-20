@@ -19,7 +19,7 @@ public class Main {
         System.out.println("The largest palindrome made from the product of two 3-digit numbers: " + largestPalindrome());
 
         long end = System.currentTimeMillis();
-        System.out.println("This project takes: " + (end - start) + "ms");
+        System.out.println("This project takes: " + (end - start) + " ms");
 
     }
 

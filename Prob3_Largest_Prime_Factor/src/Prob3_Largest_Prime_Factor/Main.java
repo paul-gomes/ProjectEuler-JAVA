@@ -44,7 +44,7 @@ public class Main {
 
         System.out.println();
         long end = System.currentTimeMillis();                                                                          //Records end time
-        System.out.println("This project takes: " + (end - start) + "ms");                                              //Calculates running time
+        System.out.println("This project takes: " + (end - start) + " ms");                                              //Calculates running time
 
 
     }
