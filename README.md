@@ -1,7 +1,7 @@
 # ProjectEluer Problems Solution - Java 
 
 This repository contains different Prject Euler probelms. 
-All the probelms has been solved utilizing Java. 
+All the probelms have been solved in Java language. 
 
 ## Problem source link
 All the problem are from Project Euler (https://projecteuler.net).
